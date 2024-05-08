@@ -12,6 +12,7 @@ There are some similar repositories available, but it appears that they have not
 
 - https://github.com/wenhwu/awesome-remote-sensing-change-detection
 - https://github.com/chickenbestlover/awesome-scene-change-detections
+- https://github.com/MinZHANG-WHU/Change-Detection-Review
 
 ## Paper
 
