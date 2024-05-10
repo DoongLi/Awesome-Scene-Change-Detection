@@ -19,35 +19,113 @@ There are some similar repositories available, but it appears that they have not
 #### 2024
 
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- Semi-Supervised Scene Change Detection by Distillation from Feature-metric Alignment, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Semi-Supervised_Scene_Change_Detection_by_Distillation_From_Feature-Metric_Alignment_WACV_2024_paper.pdf)]
+- Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots, `arXiv`. [[Paper](https://arxiv.org/pdf/2309.10924)]
+  - Keyword: Point clonds change detection;
+- **LaserSAM**: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR, `arXiv`. [[Paper](https://arxiv.org/pdf/2402.10321)]
+  - Keyword: Point clonds change detection;
+- ![paper](https://img.shields.io/badge/Dataset-red) **CityPulse**: Fine-Grained Assessment of Urban Change with Street View Time Series, `arXiv`. [[Paper](https://arxiv.org/pdf/2401.01107v2)]
 
 #### 2023
 
+- ![paper](https://img.shields.io/badge/Dataset-red) The Change You Want to See (Now in 3D), `ICCVw`. [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/OpenSUN3D/papers/Sachdeva_The_Change_You_Want_to_See_Now_in_3D_ICCVW_2023_paper.pdf)] [[Code](https://github.com/ragavsachdeva/CYWS-3D)]
+- ![paper](https://img.shields.io/badge/Dataset-red) The Change You Want to See, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Sachdeva_The_Change_You_Want_To_See_WACV_2023_paper.pdf)] [[Code](https://github.com/ragavsachdeva/The-Change-You-Want-to-See)] [[Website](https://www.robots.ox.ac.uk/~vgg/research/cyws/)]
 - How to reduce change detection to semantic segmentation, `PR`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323000857)] [[Code](https://github.com/DoctorKey/C-3PO)]
   - Keyword: C-3PO;
-- Changes-Aware Transformer: Learning Generalized Changes Representation, `arXiv`.[[Paper](https://arxiv.org/pdf/2309.13619)]
+- **Changes-Aware Transformer**: Learning Generalized Changes Representation, `arXiv`.[[Paper](https://arxiv.org/pdf/2309.13619)]
+- **SCTF-Det**: Siamese Center-Based Detector with Transformer and Feature Fusion for Object-Level Change Detection, `CAC`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10451045)]
+- **SoftMatch Distance**: A Novel Distance for Weakly-Supervised Trend Change Detection in Bi-Temporal Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2303.04737)]
+  - Keyword: General change detection (GCD), trend change detection (TCD);
+- Has Anything Changed? 3D Change Detection by 2D Segmentation Masks, `arXiv`. [[Paper](https://arxiv.org/pdf/2312.01148)] [[Code](https://github.com/katadam/ObjectChangeDetection)]
+  - Keyword:  3D change detection;
+- **Changes-Aware Transformer**: Learning Generalized Changes Representation, `arXiv`. [[Paper](https://arxiv.org/pdf/2309.13619)]
+- **3D VSG**: Long-term Semantic Scene Change Prediction through 3D Variable Scene Graphs, `ICRA`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10161212)]
+  - Keyword:  3D change detection;
+- **ScaleMix**: Intra- And Inter-Layer Multiscale Feature Combination for Change Detection, `ICASSP`. [[Paper](https://ieeexplore.ieee.org/document/10095962)]
 
 #### 2022
 
+- ![page](https://img.shields.io/badge/Pretrain-model-blue) Dual Task Learning by Leveraging Both Dense Correspondence and Mis-Correspondence for Robust Change Detection With Imperfect Matches, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Dual_Task_Learning_by_Leveraging_Both_Dense_Correspondence_and_Mis-Correspondence_CVPR_2022_paper.pdf)] [[Code](https://github.com/SAMMiCA/SimSaC)]
+- `IDET`: Iterative Difference-Enhanced Transformers for High-Quality Change Detection, [[Paper]()] [[Code](https://arxiv.org/pdf/2207.09240)]
+- Selecting change image for efficient change detection, `IET Signal Processing`. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/sil2.12095)]
+- Scene change detection: semantic and depth information, `Multimedia Tools and Applications`. [[Paper](https://link.springer.com/article/10.1007/s11042-021-10793-4)]
+- Industrial Scene Change Detection using Deep Convolutional Neural Networks, `arXiv`. [[Paper](https://arxiv.org/pdf/2212.14278)]
+- Detecting Object-Level Scene Changes in Images with Viewpoint Differences Using Graph Matching, `Remote Sensing`. [[Paper](https://www.mdpi.com/2072-4292/14/17/4225)]
+- **Standardsim**: A synthetic dataset for retail environments, International Conference on Image Analysis and Processing. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_6)] [[Code](https://github.com/nicholaslocascio/Standard-Sim)]
+- A motion-appearance-aware network for object change detection, `Knowledge-Based Systems`. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008139)]
+- Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection, `TITS`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238403)]
+
 #### 2021
 
-- ![paper](https://img.shields.io/badge/Dataset-red) **Changesim**: Towards end-to-end online scene change detection in industrial indoor environments, `ICRA`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636350)] [[Code](https://github.com/SAMMiCA/ChangeSim)] [[Website](https://sammica.github.io/ChangeSim/)]
+- ![paper](https://img.shields.io/badge/Dataset-red) **Changesim**: Towards end-to-end online scene change detection in industrial indoor environments, `IROS`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636350)] [[Code](https://github.com/SAMMiCA/ChangeSim)] [[Website](https://sammica.github.io/ChangeSim/)]
+- Hierarchical Paired Channel Fusion Network for Street Scene Change Detection, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9246289)]
+- **DR-TANet**: Dynamic Receptive Temporal Attention Network for Street Scene Change Detection, `IV`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9575362&casa_token=dtDExlOCcvsAAAAA:0DGIqppF3PvXwlT5fC9KhyNz-3s7sxNZu8FpyMx6L1Lgeh5QMB_yETx0EN9ax5TaR7djpJ910w)] [[Code](https://github.com/Herrccc/DR-TANet)]
+- **TransCD**: scene change detection via transformer-based architecture, `Optics Express`. [[Paper](https://opg.optica.org/directpdfaccess/fda6838b-0a3c-4d82-a19134fd323dc782_465513/oe-29-25-41409.pdf?da=1&id=465513&seq=0&mobile=no)]
+- ![paper](https://img.shields.io/badge/Dataset-red) City-scale Scene Change Detection using Point Clouds, `ICRA`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561855&casa_token=V0SdOlEWYKoAAAAA:fkwwnUHlBk6wejqcW7tRmgxLsOOU7OByZ2t_wh0DwWEVbCn84A2DFF8Hs76fROtWLj4svxPG2g)] [[Code](https://github.com/yewzijian/ChangeDet)] [[Website](https://yewzijian.github.io/ChangeDet/)]
+  - Keyword: Point clonds change detection;
+- Self-Supervised Pretraining for Scene Change Detection, `NeurIPS`. [[Paper](https://ml4ad.github.io/files/papers2021/Self-Supervised%20Pretraining%20for%20Scene%20Change%20Detection.pdf)] [[Code](https://github.com/NeurAI-Lab/D-SSCD)]
+
+- 3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9263106)]
 
 #### 2020
 
+- ![paper](https://img.shields.io/badge/Dataset-red) Weakly Supervised Silhouette-based Semantic Scene Change Detection, `ICRA`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196985)] [[Code](https://github.com/kensakurada/sscdnet)] [[Website](https://kensakurada.github.io/pscd/)]
+- ![paper](https://img.shields.io/badge/Dataset-red) Epipolar-Guided Deep Object Matching for Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2007.15540)]
+- Change detection with absolute difference of multiscale deep features, Neurocomputing. [[Paper](https://www.sciencedirect.com/science/article/pii/S092523122031290X?casa_token=F5jSf8dXbhcAAAAA:3qghl0AIAYi9AnIER0wis9CMMPlwm5FJoCu5i0Z7VvcSHYkLyKqK-DrJAUGFNhVuGpkKMC2kpJg)]
+- **CDNet++**: Improved Change Detection with Deep Neural Network Feature Correlation, `IJCNN`. [[Paper](https://ieeexplore.ieee.org/abstract/document/9207306)]
+- Change detection in images using shape-aware siamese convolutional network, `Engineering Applications of Artificial Intelligence`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0952197620301950)]
+- Robust and Efficient Object Change Detection by Combining Global Semantic Information and Local Geometric Verification, `IROS`. [[Paper](https://ras.papercept.net/images/temp/IROS/files/1295.pdf)]
+  - Keyword: 3D change detection;
+
 #### 2019
+
+- Change detection via graph matching and multi-view geometric constraints, `ICIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8803527&casa_token=tTgScSxhgQgAAAAA:wX7wNAr0wXaYXlt1z8VUpdvNGDdCeCAMVjq3iVbl_TGfNMnzJNDMOIAbpj1hUaucLLtqT9BQGA)]
+- **Mask-CDNet**: A mask based pixel change detection network, `Neurocomputing`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231219313979?casa_token=ScCOPDmjskwAAAAA:hr9fF1C6bVEyI9SpQikcLHNIbhjMoFdRNvsNYofkZYu6871gg6Ue2bizD-GhsMepQc1C6IXD6d0)]
+- Street-view Change Detection via Siamese Encoder-decoder Structured Convolutional Neural Networks, `VISIGRAPP`. [[Paper](https://www.scitepress.org/Papers/2019/74079/74079.pdf)]
 
 #### 2018
 
-#### 2013
+- ![paper](https://img.shields.io/badge/Dataset-red) Street-view change detection with deconvolutional networks, `Autonomous Robots`. [[Paper](https://link.springer.com/article/10.1007/s10514-018-9734-5)]
+- Learning to Measure Changes: Fully Convolutional Siamese Metric Networks for Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/1810.09111)] [[Code](https://github.com/gmayday1997/SceneChangeDet)]
+- **ChangeNet**: A Deep Learning Architecture for Visual Change Detection, `ECCVw`. [[Paper](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Varghese_ChangeNet_A_Deep_Learning_Architecture_for_Visual_Change_Detection_ECCVW_2018_paper.pdf)] [[Code](https://github.com/leonardoaraujosantos/ChangeNet)]
+- **MFCNET**: End-to-end approach for change detection in images, `ICIP`. [[Paper](https://ieeexplore.ieee.org/abstract/document/8451392)]
+
+#### 2017
+
+- ![paper](https://img.shields.io/badge/Dataset-red) TSDF-based Change Detection for Consistent Long-Term Dense Reconstruction and Dynamic Object Discovery, `ICRA`. [[Paper](https://ieeexplore.ieee.org/abstract/document/7989614)] [[Code](https://github.com/ethz-asl/change_detection_ds)]
+  - Keyword: 3D change detection;
+
+#### 2014
+
+- ![paper](https://img.shields.io/badge/Dataset-red) **CDnet 2014**: An expanded change detection benchmark dataset, `CVPRw`. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W12/papers/Wang_CDnet_2014_An_2014_CVPR_paper.pdf)] [[Website](http://www.changedetection.net/)] 
+
+#### 2012
+
+- ![paper](https://img.shields.io/badge/Dataset-red) **Changedetection. net**: A new change detection benchmark dataset, `IEEE computer society conference on computer vision and pattern recognition workshops`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6238919)] [[Website](http://www.changedetection.net/)] 
 
 ## Application
 
 #### Anomaly Detection
 
 - **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, *2024*. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- Self-Calibrating Anomaly and Change Detection for Autonomous Inspection Robots, `IRC`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10023636)]
+
+#### Map Update
+
+- **Khronos**: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments, `arXiv`, *2024*. [[Paper](https://arxiv.org/pdf/2402.13817v1)]
+
+- **Lifelong Change Detection**: Continuous Domain Adaptation for Small Object Change Detection in Everyday Robot Navigation, `MVA`, *2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215686)]
+
+- **POCD**: Probabilistic Object-Level Change Detection and Volumetric Mapping in Semi-Static Scenes, `RSS`, *2022*. [[Paper](https://arxiv.org/pdf/2205.01202)] [[Dataset](https://github.com/Viky397/TorWICDataset)]
+- Probabilistic Object-Level Change Detection for Mapping Semi-Static Scenes, `PhD thesis`, *2022*. [[Paper](https://www.proquest.com/docview/2743543161?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)]
+- PlaneSDF-Based Change Detection for Long-Term Dense Mapping, `RAL`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9832467)]
+- Cumulative Evidence for Scene Change Detection and Local Map Updates, `AIVR`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024483)]
+- Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates, `CVPR`, *2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Revaud_Did_It_Change_Learning_to_Detect_Point-Of-Interest_Changes_for_Proactive_CVPR_2019_paper.pdf)]
+
+#### Localization
+
+- Change detection using weighted features for image-based localization, `RAS`, 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889020305169)]
 
 ## License
 
-Free...
-
-[[Paper]()] [[Code]()] [[Website]()] ![page](https://img.shields.io/badge/Pre_train model-blue)
+Free.
