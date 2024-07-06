@@ -18,7 +18,8 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2024
 
-- ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- **CDMamba**: Remote Sensing Image Change Detection with Mamba, `arXiv`. [[Paper](https://arxiv.org/pdf/2406.04207)] [[Code](https://github.com/zmoka-zht/CDMamba)]
 - Semi-Supervised Scene Change Detection by Distillation from Feature-metric Alignment, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Semi-Supervised_Scene_Change_Detection_by_Distillation_From_Feature-Metric_Alignment_WACV_2024_paper.pdf)]
 - Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots, `arXiv`. [[Paper](https://arxiv.org/pdf/2309.10924)]
   - Keyword: Point clonds change detection;
