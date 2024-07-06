@@ -19,6 +19,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2024
 
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- Zero-Shot Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2406.11210)]
 - **CDMamba**: Remote Sensing Image Change Detection with Mamba, `arXiv`. [[Paper](https://arxiv.org/pdf/2406.04207)] [[Code](https://github.com/zmoka-zht/CDMamba)]
 - Semi-Supervised Scene Change Detection by Distillation from Feature-metric Alignment, `WACV`. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Semi-Supervised_Scene_Change_Detection_by_Distillation_From_Feature-Metric_Alignment_WACV_2024_paper.pdf)]
 - Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots, `arXiv`. [[Paper](https://arxiv.org/pdf/2309.10924)]
@@ -108,7 +109,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### Anomaly Detection
 
-- **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, *2024*. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
+- **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`, *2024*. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
 - Self-Calibrating Anomaly and Change Detection for Autonomous Inspection Robots, `IRC`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10023636)]
 
 #### Map Update
