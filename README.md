@@ -30,6 +30,7 @@ There are some similar repositories available, but it appears that they have not
 - Towards Generalizable Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.06214)]
 - ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.16850)]
+- **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
 
 #### 2023
 
