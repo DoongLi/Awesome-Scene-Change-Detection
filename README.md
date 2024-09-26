@@ -28,6 +28,8 @@ There are some similar repositories available, but it appears that they have not
   - Keyword: Point clonds change detection;
 - ![paper](https://img.shields.io/badge/Dataset-red) **CityPulse**: Fine-Grained Assessment of Urban Change with Street View Time Series, `arXiv`. [[Paper](https://arxiv.org/pdf/2401.01107v2)]
 - Towards Generalizable Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.06214)]
+- ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
+- Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.16850)]
 
 #### 2023
 
