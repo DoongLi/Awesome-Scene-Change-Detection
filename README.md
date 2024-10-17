@@ -119,14 +119,13 @@ There are some similar repositories available, but it appears that they have not
 #### Map Update
 
 - **Khronos**: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments, `arXiv`, *2024*. [[Paper](https://arxiv.org/pdf/2402.13817v1)]
-
 - **Lifelong Change Detection**: Continuous Domain Adaptation for Small Object Change Detection in Everyday Robot Navigation, `MVA`, *2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215686)]
-
 - **POCD**: Probabilistic Object-Level Change Detection and Volumetric Mapping in Semi-Static Scenes, `RSS`, *2022*. [[Paper](https://arxiv.org/pdf/2205.01202)] [[Dataset](https://github.com/Viky397/TorWICDataset)]
 - Probabilistic Object-Level Change Detection for Mapping Semi-Static Scenes, `PhD thesis`, *2022*. [[Paper](https://www.proquest.com/docview/2743543161?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)]
 - PlaneSDF-Based Change Detection for Long-Term Dense Mapping, `RAL`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9832467)]
 - Cumulative Evidence for Scene Change Detection and Local Map Updates, `AIVR`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024483)]
 - Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates, `CVPR`, *2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Revaud_Did_It_Change_Learning_to_Detect_Point-Of-Interest_Changes_for_Proactive_CVPR_2019_paper.pdf)]
+- Change Detection and Model Update Framework for Accurate Long-Term Localization, `IROSw`, *2024*. [[Paper](https://hal.science/hal-04733246/document)]
 
 #### Localization
 
