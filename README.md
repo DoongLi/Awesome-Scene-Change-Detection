@@ -131,6 +131,10 @@ There are some similar repositories available, but it appears that they have not
 
 - Change detection using weighted features for image-based localization, `RAS`, 2021. [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889020305169)]
 
+#### Object Rearrangement
+
+- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`, 2024. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
+
 ## License
 
 Free.
