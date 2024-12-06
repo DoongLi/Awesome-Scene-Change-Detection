@@ -17,7 +17,7 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2024
-
+- ![paper](https://img.shields.io/badge/Dataset-red) Multi-View Pose-Agnostic Change Localization with Zero Label, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Code](https://github.com/Chumsy0725/PASLCD/tree/main)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
 - Zero-Shot Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2406.11210)]
 - **CDMamba**: Remote Sensing Image Change Detection with Mamba, `arXiv`. [[Paper](https://arxiv.org/pdf/2406.04207)] [[Code](https://github.com/zmoka-zht/CDMamba)]
