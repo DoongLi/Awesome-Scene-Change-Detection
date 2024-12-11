@@ -31,6 +31,7 @@ There are some similar repositories available, but it appears that they have not
 - ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)]
 - **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
+- **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
 
 #### 2023
 
