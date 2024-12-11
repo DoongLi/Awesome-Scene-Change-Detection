@@ -32,6 +32,7 @@ There are some similar repositories available, but it appears that they have not
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)]
 - **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
+- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 
 #### 2023
 
