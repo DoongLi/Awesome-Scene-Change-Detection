@@ -33,6 +33,7 @@ There are some similar repositories available, but it appears that they have not
 - **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
+- Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, `IROS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10801354)]
 
 #### 2023
 
