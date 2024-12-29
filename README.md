@@ -138,6 +138,17 @@ There are some similar repositories available, but it appears that they have not
 
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`, 2024. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 
-## License
+## Citation
 
-Free.
+This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this work useful, please consider citing the paper:
+
+```
+@inproceedings{li2024umad,
+  title={UMAD: University of Macau Anomaly Detection Benchmark Dataset},
+  author={Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5836--5843},
+  year={2024},
+  organization={IEEE}
+}
+```
