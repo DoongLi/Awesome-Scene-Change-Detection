@@ -64,6 +64,7 @@ There are some similar repositories available, but it appears that they have not
 - **Standardsim**: A synthetic dataset for retail environments, International Conference on Image Analysis and Processing. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-06430-2_6)] [[Code](https://github.com/nicholaslocascio/Standard-Sim)]
 - A motion-appearance-aware network for object change detection, `Knowledge-Based Systems`. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008139)]
 - Scene Independency Matters: An Empirical Study of Scene Dependent and Scene Independent Evaluation for CNN-Based Change Detection, `TITS`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238403)]
+- PlaneSDF-Based Change Detection for Long-Term Dense Mapping, `RAL`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9832467)]
 
 #### 2021
 
@@ -74,8 +75,9 @@ There are some similar repositories available, but it appears that they have not
 - ![paper](https://img.shields.io/badge/Dataset-red) City-scale Scene Change Detection using Point Clouds, `ICRA`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561855&casa_token=V0SdOlEWYKoAAAAA:fkwwnUHlBk6wejqcW7tRmgxLsOOU7OByZ2t_wh0DwWEVbCn84A2DFF8Hs76fROtWLj4svxPG2g)] [[Code](https://github.com/yewzijian/ChangeDet)] [[Website](https://yewzijian.github.io/ChangeDet/)]
   - Keyword: Point clonds change detection;
 - Self-Supervised Pretraining for Scene Change Detection, `NeurIPS`. [[Paper](https://ml4ad.github.io/files/papers2021/Self-Supervised%20Pretraining%20for%20Scene%20Change%20Detection.pdf)] [[Code](https://github.com/NeurAI-Lab/D-SSCD)]
-
 - 3DCD: Scene Independent End-to-End Spatiotemporal Feature Learning Framework for Change Detection in Unseen Videos, `TIP`. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9263106)]
+- Change Detection Using Weighted Features for Image-Based Localization, `RAS`. [[Paper](https://erik-derner.github.io/research/files/derner2021change.pdf)]
+- Robust change detection based on neural descriptor fields, `IROS`. [[Paper](https://arxiv.org/pdf/2208.01014)]
 
 #### 2020
 
