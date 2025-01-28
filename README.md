@@ -16,6 +16,10 @@ There are some similar repositories available, but it appears that they have not
 
 ## Paper
 
+#### 2025
+
+- Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
+
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) Multi-View Pose-Agnostic Change Localization with Zero Label, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Code](https://github.com/Chumsy0725/PASLCD/tree/main)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
@@ -29,7 +33,6 @@ There are some similar repositories available, but it appears that they have not
 - ![paper](https://img.shields.io/badge/Dataset-red) **CityPulse**: Fine-Grained Assessment of Urban Change with Street View Time Series, `arXiv`. [[Paper](https://arxiv.org/pdf/2401.01107v2)]
 - Towards Generalizable Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.06214)]
 - ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
-- Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)]
 - **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
