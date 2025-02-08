@@ -19,6 +19,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2025
 
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
+- - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) Multi-View Pose-Agnostic Change Localization with Zero Label, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Code](https://github.com/Chumsy0725/PASLCD/tree/main)]
@@ -35,7 +36,6 @@ There are some similar repositories available, but it appears that they have not
 - ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
 - **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
-- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 - Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, `IROS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10801354)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **The STVchrono Dataset**: Towards Continuous Change Recognition in Time, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.pdf)]
 
@@ -142,7 +142,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### Object Rearrangement
 
-- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `arXiv`, 2024. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
+- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`, 2025. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 
 ## Citation
 
