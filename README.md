@@ -19,7 +19,7 @@ There are some similar repositories available, but it appears that they have not
 #### 2025
 
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
-- - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
+- **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) Multi-View Pose-Agnostic Change Localization with Zero Label, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Code](https://github.com/Chumsy0725/PASLCD/tree/main)]
