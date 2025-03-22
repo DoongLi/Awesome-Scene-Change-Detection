@@ -21,7 +21,7 @@ There are some similar repositories available, but it appears that they have not
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 - **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2502.16941)]
-- Towards Generalizable Scene Change Detection, `CVPR`. [[Paper](https://arxiv.org/pdf/2409.06214)]
+- Towards Generalizable Scene Change Detection, `CVPR`. [[Paper](https://arxiv.org/pdf/2409.06214)] [[Code](https://github.com/1124jaewookim/towards-generalizable-scene-change-detection)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **MV-3DCD**: Multi-View Pose-Agnostic Change Localization with Zero Label, `CVPR`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Website](https://chumsy0725.github.io/MV-3DCD/)]
 
 
