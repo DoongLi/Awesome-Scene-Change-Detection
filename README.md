@@ -23,6 +23,7 @@ There are some similar repositories available, but it appears that they have not
 - **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2502.16941)]
 - Towards Generalizable Scene Change Detection, `CVPR`. [[Paper](https://arxiv.org/pdf/2409.06214)] [[Code](https://github.com/1124jaewookim/towards-generalizable-scene-change-detection)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **MV-3DCD**: Multi-View Pose-Agnostic Change Localization with Zero Label, `CVPR`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Website](https://chumsy0725.github.io/MV-3DCD/)]
+- EMPLACE: Self-Supervised Urban Scene Change Detection, `AAAI`. [[Paper](https://arxiv.org/pdf/2503.17716)] [[Code](https://github.com/Timalph/EMPLACE)]
 
 
 #### 2024
