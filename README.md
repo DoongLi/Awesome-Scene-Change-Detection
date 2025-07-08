@@ -26,6 +26,7 @@ There are some similar repositories available, but it appears that they have not
 - EMPLACE: Self-Supervised Urban Scene Change Detection, `AAAI`. [[Paper](https://arxiv.org/pdf/2503.17716)] [[Code](https://github.com/Timalph/EMPLACE)]
 - Zero-Shot Scene Change Detection, `AAAI`. [[Paper](https://arxiv.org/pdf/2406.11210)] [[Code](https://github.com/kyusik-cho/ZSSCD)]
 - Environmental Change Detection: Toward a Practical Task of Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2506.11481)]
+- Information-Bottleneck Driven Binary Neural Network for Change Detection, `ICCV`. [[Paper](https://arxiv.org/pdf/2507.03504)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
