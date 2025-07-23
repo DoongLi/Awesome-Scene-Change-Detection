@@ -129,6 +129,7 @@ There are some similar repositories available, but it appears that they have not
 
 - **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`, *2024*. [[Paper]()] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
 - Self-Calibrating Anomaly and Change Detection for Autonomous Inspection Robots, `IRC`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10023636)]
+- Survey on video anomaly detection in dynamic scenes with moving cameras, `Artificial Intelligence Review`, *2023*. [[Paper](https://arxiv.org/pdf/2308.07050)]
 
 #### Map Update
 
