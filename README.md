@@ -27,6 +27,7 @@ There are some similar repositories available, but it appears that they have not
 - Zero-Shot Scene Change Detection, `AAAI`. [[Paper](https://arxiv.org/pdf/2406.11210)] [[Code](https://github.com/kyusik-cho/ZSSCD)]
 - Environmental Change Detection: Toward a Practical Task of Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2506.11481)]
 - Information-Bottleneck Driven Binary Neural Network for Change Detection, `ICCV`. [[Paper](https://arxiv.org/pdf/2507.03504)]
+- LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving, `arXiv`. [[Paper](https://arxiv.org/pdf/2508.01704)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
@@ -141,6 +142,7 @@ There are some similar repositories available, but it appears that they have not
 - Cumulative Evidence for Scene Change Detection and Local Map Updates, `AIVR`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024483)]
 - Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates, `CVPR`, *2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Revaud_Did_It_Change_Learning_to_Detect_Point-Of-Interest_Changes_for_Proactive_CVPR_2019_paper.pdf)]
 - Change Detection and Model Update Framework for Accurate Long-Term Localization, `IROSw`, *2024*. [[Paper](https://hal.science/hal-04733246/document)]
+- LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving, `arXiv`. [[Paper](https://arxiv.org/pdf/2508.01704)]
 
 #### Localization
 
@@ -164,3 +166,4 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
