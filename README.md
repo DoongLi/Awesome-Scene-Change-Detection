@@ -41,7 +41,7 @@ There are some similar repositories available, but it appears that they have not
 - ![paper](https://img.shields.io/badge/Dataset-red) **CityPulse**: Fine-Grained Assessment of Urban Change with Street View Time Series, `arXiv`. [[Paper](https://arxiv.org/pdf/2401.01107v2)]
 - Towards Generalizable Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.06214)]
 - ZeroSCD: Zero-Shot Street Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2409.15255)]
-- **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `IROS`. [[Paper](https://arxiv.org/pdf/2403.02175)]
+- **LiSTA**: Geometric Object-Based Change Detection in Cluttered Environments, `ICRA`. [[Paper](https://ieeexplore.ieee.org/document/10610102)]
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
 - Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, `IROS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10801354)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **The STVchrono Dataset**: Towards Continuous Change Recognition in Time, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.pdf)]
