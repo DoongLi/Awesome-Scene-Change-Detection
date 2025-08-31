@@ -135,6 +135,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### Map Update
 
+- **ExelMap**: Explainable Element-based HD-Map Change Detection and Update, `arXiv`, *2024*. [[Paper](https://arxiv.org/pdf/2409.10178?)]
 - **Khronos**: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments, `arXiv`, *2024*. [[Paper](https://arxiv.org/pdf/2402.13817v1)]
 - **Lifelong Change Detection**: Continuous Domain Adaptation for Small Object Change Detection in Everyday Robot Navigation, `MVA`, *2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215686)]
 - **POCD**: Probabilistic Object-Level Change Detection and Volumetric Mapping in Semi-Static Scenes, `RSS`, *2022*. [[Paper](https://arxiv.org/pdf/2205.01202)] [[Dataset](https://github.com/Viky397/TorWICDataset)]
@@ -167,5 +168,6 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
