@@ -145,7 +145,9 @@ There are some similar repositories available, but it appears that they have not
 - Cumulative Evidence for Scene Change Detection and Local Map Updates, `AIVR`, *2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10024483)]
 - Did it change? Learning to Detect Point-of-Interest Changes for Proactive Map Updates, `CVPR`, *2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Revaud_Did_It_Change_Learning_to_Detect_Point-Of-Interest_Changes_for_Proactive_CVPR_2019_paper.pdf)]
 - Change Detection and Model Update Framework for Accurate Long-Term Localization, `IROSw`, *2024*. [[Paper](https://hal.science/hal-04733246/document)]
-- LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving, `arXiv`. [[Paper](https://arxiv.org/pdf/2508.01704)]
+- LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving, `arXiv`, *2025*. [[Paper](https://arxiv.org/pdf/2508.01704)]
+- Change Detection and Model Update from Limited Query Data for Accurate Robot Localization, `arXiv`, *2025*. [[Paper](https://hal.science/hal-05305364v1/file/paper.pdf)]
+
 
 #### Localization
 
@@ -169,6 +171,7 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
 
