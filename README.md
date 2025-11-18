@@ -31,6 +31,7 @@ There are some similar repositories available, but it appears that they have not
 - GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments, `ICCV`. [[Paper](https://arxiv.org/pdf/2508.08867)] [[Website](https://zju3dv.github.io/GaussianUpdate)]
 - Leveraging Geometric Priors for Unaligned Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2509.11292)] [[Code](https://github.com/ZilingLiu/GeoSCD)]
 - ChangingGrounding: 3D Visual Grounding in Changing Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.14965)] [[Website](https://hm123450.github.io/CGB/)] [[Code](https://github.com/hm123450/ChangingGroundingBenchmark)]
+- Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.12370)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
@@ -172,6 +173,7 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
 
