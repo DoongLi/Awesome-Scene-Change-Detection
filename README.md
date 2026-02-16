@@ -23,6 +23,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2025
 
+- SceneDiff: A Benchmark and Method for Multiview Object Change Detection, `arXiv`, [[Paper](https://arxiv.org/pdf/2512.16908)][[Code](https://github.com/yuqunw/scene_diff)]
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 - **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2502.16941)]
@@ -180,6 +181,9 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
+
+
 
 
 
