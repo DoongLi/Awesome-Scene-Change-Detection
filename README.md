@@ -20,6 +20,7 @@ There are some similar repositories available, but it appears that they have not
 
 - Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments, `RAL`. [[Paper](https://arxiv.org/pdf/2602.08189)] [[Code](https://github.com/OREOCHIZ/chamelion)] [[Website](https://chamelion-pages.github.io/)]
 - LiDAR-based 3D Change Detection at City Scale, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.21112)] [[Code](https://github.com/HaitianWang/IEEE-Sensor-Journal-Changing-Detection)]
+- Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `CVPR`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
 
 #### 2025
 
@@ -37,7 +38,6 @@ There are some similar repositories available, but it appears that they have not
 - GaussianUpdate: Continual 3D Gaussian Splatting Update for Changing Environments, `ICCV`. [[Paper](https://arxiv.org/pdf/2508.08867)] [[Website](https://zju3dv.github.io/GaussianUpdate)]
 - Leveraging Geometric Priors for Unaligned Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2509.11292)] [[Code](https://github.com/ZilingLiu/GeoSCD)]
 - ChangingGrounding: 3D Visual Grounding in Changing Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.14965)] [[Website](https://hm123450.github.io/CGB/)] [[Code](https://github.com/hm123450/ChangingGroundingBenchmark)]
-- Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `arXiv`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
 - Spectral-Temporal Attention for Robust Change Detection, `IROS`. [[Paper](https://ieeexplore.ieee.org/document/11246398)]
 
 #### 2024
@@ -157,7 +157,7 @@ There are some similar repositories available, but it appears that they have not
 - Change Detection and Model Update Framework for Accurate Long-Term Localization, `IROSw`, *2024*. [[Paper](https://hal.science/hal-04733246/document)]
 - LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving, `arXiv`, *2025*. [[Paper](https://arxiv.org/pdf/2508.01704)]
 - Change Detection and Model Update from Limited Query Data for Accurate Robot Localization, `arXiv`, *2025*. [[Paper](https://hal.science/hal-05305364v1/file/paper.pdf)]
-
+- Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `CVPR`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
 
 #### Localization
 
@@ -181,6 +181,7 @@ This project is part of [UMAD](https://github.com/IMRL/UMAD). If you find this w
   organization={IEEE}
 }
 ```
+
 
 
 
