@@ -25,10 +25,11 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2025
 
+- C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF, `TIP`, [[Paper](https://ieeexplore.ieee.org/abstract/document/11222889)] [[Code](https://github.com/C-NeRF/C-NeRF)]
 - SceneDiff: A Benchmark and Method for Multiview Object Change Detection, `arXiv`, [[Paper](https://arxiv.org/pdf/2512.16908)][[Code](https://github.com/yuqunw/scene_diff)]
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
-- **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2502.16941)]
+- **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `ICASSP`. [[Paper](https://arxiv.org/pdf/2502.16941)]
 - Towards Generalizable Scene Change Detection, `CVPR`. [[Paper](https://arxiv.org/pdf/2409.06214)] [[Code](https://github.com/1124jaewookim/towards-generalizable-scene-change-detection)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **MV-3DCD**: Multi-View Pose-Agnostic Change Localization with Zero Label, `CVPR`. [[Paper](https://arxiv.org/pdf/2412.03911)] [[Website](https://chumsy0725.github.io/MV-3DCD/)]
 - EMPLACE: Self-Supervised Urban Scene Change Detection, `AAAI`. [[Paper](https://arxiv.org/pdf/2503.17716)] [[Code](https://github.com/Timalph/EMPLACE)]
@@ -40,6 +41,8 @@ There are some similar repositories available, but it appears that they have not
 - Leveraging Geometric Priors for Unaligned Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2509.11292)] [[Code](https://github.com/ZilingLiu/GeoSCD)]
 - ChangingGrounding: 3D Visual Grounding in Changing Scenes, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.14965)] [[Website](https://hm123450.github.io/CGB/)] [[Code](https://github.com/hm123450/ChangingGroundingBenchmark)]
 - Spectral-Temporal Attention for Robust Change Detection, `IROS`. [[Paper](https://ieeexplore.ieee.org/document/11246398)]
+- 3D Scene Change Modeling with Consistent Multi-View Aggregation, `3DV`. [[Paper](https://arxiv.org/pdf/2512.22830)] [[Website](https://zr-zhou0o0.github.io/SCaR3D/)] [[Code](https://github.com/zr-zhou0o0/SCaR-3D)]
+- SemanticDifference: Change Detection with Multi-scale Vision-Language Representation Difference, `Advanced Intelligent Computing Technology and Applications`. [[Paper](https://link.springer.com/chapter/10.1007/978-981-96-9866-0_13)]
 
 #### 2024
 - ![paper](https://img.shields.io/badge/Dataset-red) **UMAD**: University of Macau Anomaly Detection Benchmark Dataset, `IROS`. [[Paper](https://arxiv.org/pdf/2408.12527)] [[Dataset](https://github.com/IMRL/UMAD)] [[Website](https://doongli.github.io/umad/)]
