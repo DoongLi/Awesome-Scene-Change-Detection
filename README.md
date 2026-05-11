@@ -17,8 +17,7 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2026
-- From Pixels to Primitives: Scene Change Detection
-in 3D Gaussian Splatting, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.07203)] [[Code](https://github.com/Chumsy0725/GS-DIFF)] [[Website](https://chumsy0725.github.io/GS-DIFF)]
+- From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.07203)] [[Code](https://github.com/Chumsy0725/GS-DIFF)] [[Website](https://chumsy0725.github.io/GS-DIFF)]
 - ![paper](https://img.shields.io/badge/Dataset-red) Scene Change Detection with Vision-Language Representation Learning, `arXiv`. [[Paper](https://arxiv.org/pdf/2604.11402)] [[Code](https://github.com/ai4ce/LangSCD)]
 - Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments, `RAL`. [[Paper](https://arxiv.org/pdf/2602.08189)] [[Code](https://github.com/OREOCHIZ/chamelion)] [[Website](https://chamelion-pages.github.io/)]
 - LiDAR-based 3D Change Detection at City Scale, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.21112)] [[Code](https://github.com/HaitianWang/IEEE-Sensor-Journal-Changing-Detection)]
