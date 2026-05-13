@@ -22,6 +22,7 @@ There are some similar repositories available, but it appears that they have not
 - Chamelion: Reliable Change Detection for Long-Term LiDAR Mapping in Transient Environments, `RAL`. [[Paper](https://arxiv.org/pdf/2602.08189)] [[Code](https://github.com/OREOCHIZ/chamelion)] [[Website](https://chamelion-pages.github.io/)]
 - LiDAR-based 3D Change Detection at City Scale, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.21112)] [[Code](https://github.com/HaitianWang/IEEE-Sensor-Journal-Changing-Detection)]
 - Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `CVPR`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
+- From Image Hashing to Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.12259)]
 
 #### 2025
 
