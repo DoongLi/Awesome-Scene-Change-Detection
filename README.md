@@ -17,6 +17,7 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2026
+
 - GOLDILOCS: General Object-Level Detection And Labeling Of Changes In Scenes, `ICLR`. [[Paper](https://openreview.net/pdf?id=qbCceo3FBE)] [[Code](https://github.com/almogfri/GOLDILOCS)] [[Website](https://goldilocs.github.io/)]
 - From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.07203)] [[Code](https://github.com/Chumsy0725/GS-DIFF)] [[Website](https://chumsy0725.github.io/GS-DIFF)]
 - ![paper](https://img.shields.io/badge/Dataset-red) Scene Change Detection with Vision-Language Representation Learning, `arXiv`. [[Paper](https://arxiv.org/pdf/2604.11402)] [[Code](https://github.com/ai4ce/LangSCD)]
@@ -24,6 +25,7 @@ There are some similar repositories available, but it appears that they have not
 - LiDAR-based 3D Change Detection at City Scale, `arXiv`. [[Paper](https://arxiv.org/pdf/2510.21112)] [[Code](https://github.com/HaitianWang/IEEE-Sensor-Journal-Changing-Detection)]
 - Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `CVPR`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
 - From Image Hashing to Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.12259)]
+- VGGT-CD: Training-Free Robust Registration for 3D Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.16859)] [[Code](https://github.com/WZ-CS/VGGT-CD)]
 
 #### 2025
 
