@@ -26,6 +26,8 @@ There are some similar repositories available, but it appears that they have not
 - Changes in Real Time: Online Scene Change Detection with Multi-View Fusion, `CVPR`. [[Paper](https://arxiv.org/pdf/2511.12370)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD)]
 - From Image Hashing to Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.12259)]
 - VGGT-CD: Training-Free Robust Registration for 3D Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.16859)] [[Code](https://github.com/WZ-CS/VGGT-CD)]
+- TERDNet: Transformer Encoder-Recurrent Decoder Network for Scene Change Detection, `ICRA`. [[Paper](https://arxiv.org/pdf/2605.20822)] [[Code](https://github.com/AutoCompSysLab/TERDNet)]
+- VSCD: Video-based Scene Change Detection in Unaligned Scenes, `ICML`. [[Paper](https://arxiv.org/pdf/2605.20821)] [[Code](https://github.com/AutoCompSysLab/VSCD)]
 
 #### 2025
 
