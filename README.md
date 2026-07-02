@@ -29,6 +29,7 @@ There are some similar repositories available, but it appears that they have not
 - VGGT-CD: Training-Free Robust Registration for 3D Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.16859)] [[Code](https://github.com/WZ-CS/VGGT-CD)]
 - TERDNet: Transformer Encoder-Recurrent Decoder Network for Scene Change Detection, `ICRA`. [[Paper](https://arxiv.org/pdf/2605.20822)] [[Code](https://github.com/AutoCompSysLab/TERDNet)]
 - VSCD: Video-based Scene Change Detection in Unaligned Scenes, `ICML`. [[Paper](https://arxiv.org/pdf/2605.20821)] [[Code](https://github.com/AutoCompSysLab/VSCD)]
+- Target-Aware Change Detection for Efficient VLM Gating in Mobile Robot, `RAL`. [[Paper](https://ieeexplore.ieee.org/abstract/document/11568535)]
 
 #### 2025
 
