@@ -17,7 +17,7 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2026
-
+- 3DGS-U: Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis (with downstream applications on Scene Change Detection), `ECCV`. [[Paper](https://arxiv.org/pdf/2603.22786)] [[Code](https://github.com/Chumsy0725/3DGS-Uncertainty)] [[Website](https://chumsy0725.github.io/3DGS-Uncertainty)]
 - C3-Bench: A Context-Aware Change Captioning Benchmark, `ECCV`. [[Paper](https://arxiv.org/pdf/2606.25445)] [[Code](https://github.com/AutoCompSysLab/C3-Bench)]
 - GOLDILOCS: General Object-Level Detection And Labeling Of Changes In Scenes, `ICLR`. [[Paper](https://openreview.net/pdf?id=qbCceo3FBE)] [[Code](https://github.com/almogfri/GOLDILOCS)] [[Website](https://goldilocs.github.io/)]
 - From Pixels to Primitives: Scene Change Detection in 3D Gaussian Splatting, `arXiv`. [[Paper](https://arxiv.org/pdf/2605.07203)] [[Code](https://github.com/Chumsy0725/GS-DIFF)] [[Website](https://chumsy0725.github.io/GS-DIFF)]
