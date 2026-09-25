@@ -17,6 +17,7 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2026
+- PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification, `arXiv`. [[Paper](https://arxiv.org/pdf/2609.28930)] [[Website](https://js0n-lai.github.io/plenoci/)]
 - **FastGeSCF**: Towards Practical Scene Change Detection: A Fast, Unaligned Video Framework via Spatiotemporal Alignment, `IROS`. [[Paper](https://github.com/Henryeh310101/towards-practical-scene-change-detection/blob/main/docs/IROS26_0406_FI.pdf)] [[Code](https://github.com/Henryeh310101/towards-practical-scene-change-detection)] [[Website](https://henryeh310101.github.io/towards-practical-scene-change-detection/)]
 - 3DGS-U: Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis (with downstream applications on Scene Change Detection), `ECCV`. [[Paper](https://arxiv.org/pdf/2603.22786)] [[Code](https://github.com/Chumsy0725/3DGS-Uncertainty)] [[Website](https://chumsy0725.github.io/3DGS-Uncertainty)]
 - C3-Bench: A Context-Aware Change Captioning Benchmark, `ECCV`. [[Paper](https://arxiv.org/pdf/2606.25445)] [[Code](https://github.com/AutoCompSysLab/C3-Bench)]
