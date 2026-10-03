@@ -17,6 +17,8 @@ There are some similar repositories available, but it appears that they have not
 ## Paper
 
 #### 2026
+
+- SceneDiff: A Benchmark and Method for Multiview Object Change Detection, `ECCV`, [[Paper](https://arxiv.org/pdf/2512.16908)][[Code](https://github.com/yuqunw/scene_diff)]
 - ShelfChange3D: Object-Level 3D Change Detection for Retail Shelf Monitoring, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.01283)] [[Website](https://zerone0011.github.io/ShelfChange3D/)]
 - PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification, `arXiv`. [[Paper](https://arxiv.org/pdf/2609.28930)] [[Website](https://js0n-lai.github.io/plenoci/)]
 - **FastGeSCF**: Towards Practical Scene Change Detection: A Fast, Unaligned Video Framework via Spatiotemporal Alignment, `IROS`. [[Paper](https://github.com/Henryeh310101/towards-practical-scene-change-detection/blob/main/docs/IROS26_0406_FI.pdf)] [[Code](https://github.com/Henryeh310101/towards-practical-scene-change-detection)] [[Website](https://henryeh310101.github.io/towards-practical-scene-change-detection/)]
@@ -40,7 +42,6 @@ There are some similar repositories available, but it appears that they have not
 #### 2025
 
 - C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF, `TIP`, [[Paper](https://ieeexplore.ieee.org/abstract/document/11222889)] [[Code](https://github.com/C-NeRF/C-NeRF)]
-- SceneDiff: A Benchmark and Method for Multiview Object Change Detection, `arXiv`, [[Paper](https://arxiv.org/pdf/2512.16908)][[Code](https://github.com/yuqunw/scene_diff)]
 - Robust Scene Change Detection Using Visual Foundation Models and Cross-Attention Mechanisms, `ICRA`. [[Paper](https://arxiv.org/pdf/2409.16850)] [[Code](https://github.com/ChadLin9596/Robust-Scene-Change-Detection)] [[Website](https://chadlin9596.github.io/projects/2024-image-cd.html)]
 - **3DGS-CD**: 3D Gaussian Splatting-based Change Detection for Physical Object Rearrangement, `RAL`. [[Paper](https://arxiv.org/pdf/2411.03706)] [[Code](https://github.com/520xyxyzq/3DGS-CD)]
 - **Gaussian Difference**: Find Any Change Instance in 3D Scenes, `ICASSP`. [[Paper](https://arxiv.org/pdf/2502.16941)]
