@@ -18,6 +18,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2026
 
+- Environmental Change Detection for Real-World Change Analysis, `ECCV`, [[Paper](https://link.springer.com/chapter/10.1007/978-3-032-37520-9_21)] [[Code](https://kyusik-cho.github.io/ECD/)] [[Website](https://github.com/kyusik-cho/ECD)]
 - SceneDiff: A Benchmark and Method for Multiview Object Change Detection, `ECCV`, [[Paper](https://arxiv.org/pdf/2512.16908)][[Code](https://github.com/yuqunw/scene_diff)]
 - ShelfChange3D: Object-Level 3D Change Detection for Retail Shelf Monitoring, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.01283)] [[Website](https://zerone0011.github.io/ShelfChange3D/)]
 - PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification, `arXiv`. [[Paper](https://arxiv.org/pdf/2609.28930)] [[Website](https://js0n-lai.github.io/plenoci/)]
