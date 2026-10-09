@@ -77,6 +77,8 @@ There are some similar repositories available, but it appears that they have not
 - **ViewDelta**: Text-Prompted Change Detection in Unaligned Images, `arXiv`. [[Paper](https://arxiv.org/pdf/2412.07612)]
 - Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, `IROS`. [[Paper](https://ieeexplore.ieee.org/abstract/document/10801354)]
 - ![paper](https://img.shields.io/badge/Dataset-red) **The STVchrono Dataset**: Towards Continuous Change Recognition in Time, `CVPR`. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.pdf)]
+- Unsupervised Change Detection for Space Habitats Using 3D Point Clouds, `AIAA SCITECH`. [[Paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-1960)] [[Code](https://github.com/nasa/isaac/tree/master/anomaly)]
+- AstrobeeCD: Change detection in microgravity with free-flying robots, `Acta Astronautica`. [[Paper](https://www.sciencedirect.com/science/article/pii/S0094576524003539)] [[Code](https://github.com/hollydinkel/astrobeecd)]
 
 #### 2023
 
