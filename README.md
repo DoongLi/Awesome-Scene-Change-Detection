@@ -18,6 +18,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2026
 
+- Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.28490)]
 - O-SCD++: Replay-Free Online Scene Change Detection via Recursive Evidence Fusion, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.24462)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD/plusplus)]
 - Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.10181)] [[Website](https://www.multyxu.com/argos/)]
 - GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.06688)]
