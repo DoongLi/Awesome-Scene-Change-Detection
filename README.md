@@ -18,7 +18,7 @@ There are some similar repositories available, but it appears that they have not
 
 #### 2026
 
-- Is It Still There? Place-Registered Verification Makes VLMs Reliable Scene-Change Detectors, `arXiv`. [[Paper](https://arxiv.org/pdf/2611.18734v1)]
+- Is It Still There? Place-Registered Verification Makes VLMs Reliable Scene-Change Detectors, `arXiv`. [[Paper](https://arxiv.org/pdf/2611.18734v1)] [[Code](https://github.com/Oran9er/STILL)]
 - Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.28490)]
 - O-SCD++: Replay-Free Online Scene Change Detection via Recursive Evidence Fusion, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.24462)] [[Code](https://github.com/Chumsy0725/O-SCD)] [[Website](https://chumsy0725.github.io/O-SCD/plusplus)]
 - Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection, `arXiv`. [[Paper](https://arxiv.org/pdf/2610.10181)] [[Website](https://www.multyxu.com/argos/)]
